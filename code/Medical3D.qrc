@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="Medical3D">
+    <file>Icons/app.jpg</file>
+    <file>Icons/AddFile.png</file>
+    <file>Icons/About.png</file>
+    <file>Icons/Database.png</file>
+    <file>Icons/Flag.png</file>
+    <file>Icons/Frac.png</file>
+    <file>Icons/OneStar.png</file>
+    <file>Icons/TwoStars.png</file>
+  </qresource>
+</RCC>
