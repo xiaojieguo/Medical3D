@@ -9,3 +9,12 @@ Installation
 •Unpack it to a folder of your choice.
 
 •On Windows: Double-click Medical 3D.exe
+
+
+Running Instruction
+
+•Double-click the button of the name of each fracture pattern   
+
+•Click the button “Figure” to view the screenshot figure of this pattern of fracture
+
+•Click the button “3D visualization” to visualize the 3D model of this pattern of fracture and click the 3D model to rotate it or zoom it in/out
